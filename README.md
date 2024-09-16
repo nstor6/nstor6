@@ -3,7 +3,7 @@
 Soy estudiante de desarrollo de aplicaciones multiplataforma.Ahora me enfoco en mejorar mis habilidades como programador, ademas de crear pequeños proyectos, para pulir las sklls ya adquiridas.
 
 💻 Tecnologías y Herramientas que Uso
-![image](https://github.com/user-attachments/assets/8e6eb9ef-aaad-4469-b5e4-27916e71b71b)  
+Java Kotlin Android HTML CSS MariaDB
 
 🌱 Actualmente Estoy Aprendiendo
 [Tecnologías nuevas que estás aprendiendo, ej. TensorFlow, TypeScript]
