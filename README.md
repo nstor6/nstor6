@@ -10,8 +10,6 @@ Soy estudiante de desarrollo de aplicaciones multiplataforma.Ahora me enfoco en 
   <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="60" height="60"/></a>
 </div>
 <br></br>
-<br></br>
-<br></br>
 <details>
   <summary>☎️ <h2>Contact Me</h2></summary>
   <samp>
@@ -22,6 +20,9 @@ Soy estudiante de desarrollo de aplicaciones multiplataforma.Ahora me enfoco en 
       <a href="mailto:nstor6@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Gmail" height="30"/></a>
+            <a href="mailto:nstor6@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=black"
+         alt="X" height="30"/></a>
     </p>
   </samp>
 </details>
