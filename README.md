@@ -9,11 +9,9 @@ Soy estudiante de desarrollo de aplicaciones multiplataforma.Ahora me enfoco en 
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="60" height="60"/></a>
   <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="60" height="60"/></a>
 </div>
-
-
-
-
-
+<br></br>
+<br></br>
+<br></br>
 📫 Cómo Contactarme
 LinkedIn: nstor6
 Correo: nstor6@gmail.com
