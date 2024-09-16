@@ -16,7 +16,7 @@ Soy estudiante de desarrollo de aplicaciones multiplataforma.Ahora me enfoco en 
   <summary>☎️ <h2>Contact Me</h2></summary>
   <samp>
     <p align="left">
-      <a href="[https://www.linkedin.com/in/diego-castro-tranc%C3%B3n-0450712b1/](https://www.linkedin.com/in/nestor-pulgar-del-campo-a42266222/)" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/nestor-pulgar-del-campo-a42266222/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn" height="30"/></a>
       <a href="mailto:nstor6@gmail.com" target="blank"><img align="center"
