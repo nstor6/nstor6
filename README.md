@@ -10,6 +10,10 @@ Soy estudiante de desarrollo de aplicaciones multiplataforma.Ahora me enfoco en 
   <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="60" height="60"/></a>
 </div>
 
+
+
+
+
 📫 Cómo Contactarme
 LinkedIn: nstor6
 Correo: nstor6@gmail.com
